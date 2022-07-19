@@ -9,7 +9,7 @@ Credits to:
 
 ## CLI
 
-I found several projects that partially offer the features that I need. The ability to pass custom messages and image paths as params. 
+Hacked together this small tool because I could not find a project that offered all of the features I wanted. Particularly the ability to pass a custom message and image paths as params, for all 3 commonly used platforms (Windows, macOS & Linux)  
 
 
 ```cmd
