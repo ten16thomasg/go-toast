@@ -1,2 +1,12 @@
-*.sum
-*.mod
+**.sum
+**.mod
+c/**
+.vscode/**
+**.dll
+**.exe
+**.exe~
+**.lib
+**.a
+host.h
+__debug_bin
+**debug.test
